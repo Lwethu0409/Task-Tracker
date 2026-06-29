@@ -22,4 +22,7 @@
    - confirm task by pressing 'Add Task' or Enter on your keyboard
    - use checkbox to mark tasks as complete
    - delete or clear tasks as needed.
-   
+
+🔗 Live Demo:
+https://lwethu0409.github.io/Task-Tracker/
+
